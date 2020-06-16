@@ -1,0 +1,17 @@
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Throwning Object2.exe
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Throwning Object2.pdb
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.CV.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.CV.GPU.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.CV.ML.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.CV.OCR.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.CV.Stitching.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.CV.UI.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.CV.VideoStab.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\bin\Debug\Emgu.Util.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\obj\x86\Debug\Throwning_Object2.Form1.resources
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\obj\x86\Debug\Throwning_Object2.Properties.Resources.resources
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\obj\x86\Debug\Throwning Object2.exe
+c:\users\shaghayegh\documents\visual studio 2010\Projects\Throwning Object2\Throwning Object2\obj\x86\Debug\Throwning Object2.pdb
